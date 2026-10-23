@@ -2,8 +2,8 @@
 
 An automated computer vision solution to detect road surface defects and assess infrastructure degradation severity using a fine-tuned YOLOv8 deep learning model.
 
-🔗 **Live Web Application**: [https://your-app-name.streamlit.app](https://pothole-and-defect-detector.streamlit.app/)  
-*(Replace with your live Streamlit Cloud or Hugging Face Space URL)*
+🔗 **Live Web Application**: [https://pothole-and-defect-detector.streamlit.app/](https://pothole-and-defect-detector.streamlit.app/)  
+
 
 ---
 
