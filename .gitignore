@@ -1,0 +1,6 @@
+venv/
+runs/
+pothole-dataset/
+datasets/
+__pycache__/
+*.zip
